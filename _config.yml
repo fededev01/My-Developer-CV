@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   In this GitHub page I'll introduce my self and my developer's skills
 theme: jekyll-theme-midnight
 google_analytics: UA-164005640-1
+markdown: kramdown
 
 # social links
 twitter_username: fededev01 # DO NOT include the @ character, or else the build will fail!

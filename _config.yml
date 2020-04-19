@@ -1,1 +1,15 @@
+title: My Developer CV
+author: fededev01
+email: fede.dev01@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  In this GitHub page I'll introduce my self and my developer's skills
 theme: jekyll-theme-midnight
+google_analytics: G-56M41RG8BE
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# social links
+twitter_username: fededev01 # DO NOT include the @ character, or else the build will fail!
+github_username:  fededev01 # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage

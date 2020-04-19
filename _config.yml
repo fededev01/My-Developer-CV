@@ -4,7 +4,7 @@ email: fede.dev01@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   In this GitHub page I'll introduce my self and my developer's skills
 theme: jekyll-theme-midnight
-google_analytics: G-56M41RG8BE
+
 
 # social links
 twitter_username: fededev01 # DO NOT include the @ character, or else the build will fail!

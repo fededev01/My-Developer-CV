@@ -1,7 +1,7 @@
 title: My Developer CV
 author: fededev01
 description: > # this means to ignore newlines until "baseurl:"
-  With this GitHub page I'll introduce myself and my developer's skills
+  Questa Pagina GitHub ha lo scopo di presentarmi e di illustrare le mie capacità da sviluppatore
 theme: jekyll-theme-midnight
 google_analytics: UA-164005640-1
 markdown: kramdown

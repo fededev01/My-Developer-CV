@@ -10,3 +10,7 @@ Per vedere cosa abbiamo sviluppato, visita i [commenti](https://github.com/oss-i
 ## 25-04-2020
 Il terzo OSS al quale ho partecipato è stato in data 25-04-2020.
 Per vedere cosa abbiamo sviluppato, visita i [commenti](https://github.com/oss-italy/comments/issues/6)
+## Repository
+In particolare, in queste giornate i miei sforzi si sono concentrati
+sulle seguenti repositories:
+-[Exercises-py](https://github.com/oss-python/Exercises-py)

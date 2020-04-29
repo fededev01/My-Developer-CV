@@ -13,4 +13,4 @@ Per vedere cosa abbiamo sviluppato, visita i [commenti](https://github.com/oss-i
 ## Repository
 In particolare, in queste giornate i miei sforzi si sono concentrati
 sulle seguenti repositories:
--[Exercises-py](https://github.com/oss-python/Exercises-py)
+- [Exercises-py](https://github.com/oss-python/Exercises-py)
